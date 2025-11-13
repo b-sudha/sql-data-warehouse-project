@@ -1,0 +1,7 @@
+
+--Create schema/database
+create schema bronze
+
+create schema silver
+
+create schema gold
